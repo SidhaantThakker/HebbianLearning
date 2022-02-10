@@ -12,7 +12,7 @@ def update_weights(pattern):
 
 while clock <= 20:
 
-    print(clock)
+    # print(clock)
 
     for i in range(len(pattern)):
 
