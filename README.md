@@ -4,7 +4,7 @@
 
 ### ANN-esque
 
-This is my basic attempt at modelling what ahrdware absed attractor neural networks would function like, and what results we may expect
+This is my basic attempt at modelling what hardware based attractor neural networks would function like, and what results we may expect
 
 ### PythonSTDPModel
 
